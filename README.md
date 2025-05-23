@@ -35,7 +35,6 @@ Bu proje, Türkiye'deki şehirlerin geri dönüşüm verilerini analiz edip, gra
 *Seçilen şehir ve yıl için geri dönüşüm grafikleri*  
 
 > *Not: Ekran görüntülerini ./screenshots klasörüne koyabilirsiniz.*  
-
 ---
 
 ## Sonuç  
