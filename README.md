@@ -1,5 +1,5 @@
 # Geri Dönüşüm İstatistikleri Web Uygulaması  
-*Hazırlayan: [Adınız]*
+*Hazırlayan: [Efe Can ALICIOĞLU]*
 
 ---
 
