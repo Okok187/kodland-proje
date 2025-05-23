@@ -1,5 +1,5 @@
 # Geri Dönüşüm İstatistikleri Web Uygulaması  
-*Hazırlayan: [Efe Can ALICIOĞLU]*
+*Hazırlayan: Efe Can ALICIOĞLU*
 
 ---
 
